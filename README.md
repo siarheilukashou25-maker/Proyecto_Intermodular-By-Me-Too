@@ -145,4 +145,7 @@ Este repositorio está destinado principalmente a la **documentación, gestión 
 
 **Módulo:** Proyecto Intermodular DAM
 
+## License
 
+This project is licensed under the Apache License 2.0.
+See the [LICENSE](LICENSE) file for details.
